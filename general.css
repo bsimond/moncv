@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(53, 170, 131);
+}
+
+
+
+header {
+    overflow: hidden;
+}
+
+nav {
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 0.3rem;
+    background-color: rgb(107, 107, 149);
+}
+
+nav a {
+    color: rgb(240, 219, 137);
+}
+
+@font-face {
+    font-family:"font titre";
+    src:url (Roboto-LightItalic.ttf);
+}
